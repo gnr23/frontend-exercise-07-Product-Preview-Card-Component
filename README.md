@@ -43,13 +43,11 @@ VS code
 
 ### What I learned
 
+We can check for a device width which is greater than 768px ~tablets
+and when this is the case our desktop image shows up 
 <source media="(mid-width: 768px)" srcset="" />
 Instead of <img src="" alt="">
+then we use /*<img src="" alt="">*/ as a default for when a device is less than 768px
 
-we are checking for a device width which is greater than 768px ~tablets
-and when this is the case our desktop image shows up -->
-
-then we use <img src="" alt=""> as a default for when a device is less than 768px
-
-  min-height: calc(100vh - 0.1px);
+min-height: calc(100vh - 0.1px);
 because vh are not properly supported in mobile environments
