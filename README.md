@@ -31,8 +31,8 @@ See hover and focus states for interactive elements
 
 ### Links
 
-- Solution URL: [NETLIFY URL](https://faq-accordion-card-gnr23.netlify.app)
-- Live Site URL: [GITHUB URL](https://github.com/gnr23/frontend-exercise-06-faq-accordion-card)
+- Solution URL: [NETLIFY URL](https://product-preview-card-component-grn23.netlify.app/)
+- Live Site URL: [GITHUB URL](https://github.com/gnr23/frontend-exercise-07-Product-Preview-Card-Component)
 
 
 ### Built with
